@@ -1,5 +1,5 @@
 # Student-Management-System
-Student-Maanagement-System I USED "Embedded JavaScript templating" FOR FRONTEND <%= EJS %>
+
 
 I USED CRUD OPERATION TO IMPLEMENT THIS 
 
