@@ -85,6 +85,12 @@ const View = () => {
                     align="center"
                     className={classes.tableHeadCell}
                   >
+                       Adress
+                  </TableCell>
+                  <TableCell
+                    align="center"
+                    className={classes.tableHeadCell}
+                  >
                     Phone Number
                   </TableCell>
                 </TableRow>
@@ -95,6 +101,7 @@ const View = () => {
                   <TableCell align="center">{student.stuname}</TableCell>
                   <TableCell align="center">{student.email}</TableCell>
                   <TableCell align="center">{student.phone}</TableCell>
+                      <TableCell align ="center">{student.address}</TableCell>
                 </TableRow>
               </TableBody>
             </Table>
